@@ -1,5 +1,6 @@
-Boas vindas a meu perfil
+Boas vindas ao meu perfil 
+
 Meu nome é Breno Campos
+Estou estudando alura
+Estou desenvolvendo na linguagem JavaScript
 Tenho 16 anos
-Estou estudanto alura
-Estou e desevolvendo na linguagem JavaScript
